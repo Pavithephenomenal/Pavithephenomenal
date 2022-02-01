@@ -11,10 +11,10 @@
 - 💬 Ask me about Front-End Development
 
 - 📫 How to reach me: 
-1. LinkedIn: @Pavithra_Lakshmikanthanbharathi 
-2. Instagram: @geek_writer 
-3. Forage: @Pavithra_L 
-4. Email: pavithravslkanth2001@gmail.com
+1. [LinkedIn: @Pavithra Lakshmikanthanbharathi](https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3/)
+2. [Instagram: @geek_writer](instagram.com/geek_writer/?hl=en)
+3. [Forage: @Pavithra L](https://www.theforage.com/profile/YLuCTSvXiCv7w5YCB?ref=YLuCTSvXiCv7w5YCB)
+
 
 
 
