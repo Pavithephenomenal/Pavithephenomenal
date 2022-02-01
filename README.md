@@ -1,6 +1,4 @@
-### Hi there, This is Pavithra Lakshmikanthan 👋
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+Hi there, This is Pavithra Lakshmikanthan 👋
 
 - 🔭 I’m currently working on Full-Stack Projects to improve my Profile 
 
@@ -11,7 +9,7 @@
 - 💬 Ask me about Front-End Development
 
 - 📫 How to reach me: 
-1. <a href="https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3/"><i class="devicon-linkedin-plain colored"></i>LinkedIn</a>
+1. <a href="https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3/"><i class="devicon-linkedin-plain colored"></i>LinkedIn:@Pavithra Lakshmikanthanbharathi</a>
 2. [Instagram: @geek_writer](instagram.com/geek_writer/?hl=en)
 3. [Forage: @Pavithra L](https://www.theforage.com/profile/YLuCTSvXiCv7w5YCB?ref=YLuCTSvXiCv7w5YCB)
 
