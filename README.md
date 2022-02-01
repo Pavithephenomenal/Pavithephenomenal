@@ -1,4 +1,4 @@
-###Hi there, This is Pavithra Lakshmikanthan 👋
+#Hi there, This is Pavithra Lakshmikanthan 👋
 
 - 🔭 I’m currently working on Full-Stack Projects to improve my Profile 
 
