@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Product Development and Full-Stack Projects to improve my Profile 
 
-- 🌱 I’m currently learning Node.js and ExpressJs, Reading books on Product Development and related Skills
+- 🌱 I’m currently learning G-Firebase, Reading books, courses and blogs on Product Development and related Skills
 
 - 👯 I’m looking to collaborate on LinkedIn
 
