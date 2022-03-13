@@ -1,12 +1,12 @@
 #Hi there, This is Pavithra Lakshmikanthan 👋
 
-- 🔭 I’m currently working on Full-Stack Projects to improve my Profile 
+- 🔭 I’m currently working on Product Development and Full-Stack Projects to improve my Profile 
 
-- 🌱 I’m currently learning Node.js and ExpressJs
+- 🌱 I’m currently learning Node.js and ExpressJs, Reading books on Product Development and related Skills
 
 - 👯 I’m looking to collaborate on LinkedIn
 
-- 💬 Ask me about Front-End Development
+- 💬 Ask me about Front-End Development, Wireframes, Writing specs for a new project
 
 - 📫 How to reach me: 
 1. <a href="https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3/"><i class="devicon-linkedin-plain colored"></i>LinkedIn:@Pavithra Lakshmikanthanbharathi</a>
