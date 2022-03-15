@@ -30,5 +30,5 @@
 <img align-"right" src="https://github-readme-stats.vercel.app/api?username=Pavithephenomenal&&show_icons=true&title_color=F76E11&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
-![](https://img.shields.io/badge/OS-WINDOWS 10-informational?style=flat&logo=Windows
-&logoColor=white&color=2bbc8a)
+<img src="https://img.shields.io/badge/OS-WINDOWS 10-informational?style=flat&logo=Windows
+&logoColor=white&color=2bbc8a"/>
