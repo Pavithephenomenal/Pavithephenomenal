@@ -1,5 +1,9 @@
 #Hi there, This is Pavithra Lakshmikanthan 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="100"/>
+</div>
+
 - 🔭 I’m currently working on Product Development and Full-Stack Projects to improve my Profile 
 
 - 🌱 I’m currently learning G-Firebase
