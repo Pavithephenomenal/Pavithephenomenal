@@ -23,6 +23,10 @@
 
 - 💬 Ask me about Front-End Development, Wireframes, Writing specs for a new project
 
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact: I am an Engineer
+
 
 -My Projects:
 1. [Neck Neutralizer-Ecommerce site](https://neckneutraliser.com/)
@@ -32,13 +36,8 @@
 5. [Tableau-Content Management Treemap](https://public.tableau.com/shared/MXR6J3RFR?:display_count=y&:origin=viz_share_link)
 6. [React-Recipe-App](https://pavi-react-recipe-app.netlify.app/)
 7. [Wedding-Website](https://hwithk.netlify.app/)
-- 😄 Pronouns: She/Her
-
-- ⚡ Fun fact: I am an Engineer
 
 <!-- <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"> -->
-
-
 <div>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithephenomenal&theme=dark"/><img  src="https://github-readme-stats.vercel.app/api?username=Pavithephenomenal&&show_icons=true&title_color=F76E11&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </div>
