@@ -4,6 +4,18 @@
   <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="250"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 - 🔭 I’m currently working on Product Development and Full-Stack Projects to improve my Profile 
 
 - 🌱 I’m currently learning G-Firebase
