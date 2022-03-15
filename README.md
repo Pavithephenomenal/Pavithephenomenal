@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="250"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3">
-    ![Instagram: @geek_writer]<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="instagram.com/geek_writer/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
