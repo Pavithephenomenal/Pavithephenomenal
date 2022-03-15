@@ -1,7 +1,7 @@
 #Hi there, This is Pavithra Lakshmikanthan 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="500"/>
 </div>
 
 - 🔭 I’m currently working on Product Development and Full-Stack Projects to improve my Profile 
