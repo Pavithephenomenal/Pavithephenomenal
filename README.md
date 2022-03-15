@@ -3,7 +3,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="250"/>
   <div id="badges">
-- 📫 How to reach me: <br/>
   <a href="https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
