@@ -30,5 +30,5 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithephenomenal&theme=dark&show_icons=true&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithephenomenal&theme=dark"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Pavithephenomenal&&show_icons=true&title_color=F76E11&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
