@@ -3,6 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="250"/>
   <div id="badges">
+    - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,10 +24,6 @@
 
 - 💬 Ask me about Front-End Development, Wireframes, Writing specs for a new project
 
-- 📫 How to reach me: 
-1. <a href="https://www.linkedin.com/in/pavithra-lakshmikanthabharathi-51a8ab1a3/"><i class="devicon-linkedin-plain colored"></i>LinkedIn:@Pavithra Lakshmikanthanbharathi</a>
-2. [Instagram: @geek_writer](instagram.com/geek_writer/?hl=en)
-3. [Forage: @Pavithra L](https://www.theforage.com/profile/YLuCTSvXiCv7w5YCB?ref=YLuCTSvXiCv7w5YCB)
 
 -My Projects:
 1. [Neck Neutralizer-Ecommerce site](https://neckneutraliser.com/)
