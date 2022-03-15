@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on Product Development and Full-Stack Projects to improve my Profile 
 
-- 🌱 I’m currently learning G-Firebase, Reading books, courses and blogs on Product Development and related Skills
+- 🌱 I’m currently learning G-Firebase
+- 🌱 I’m currently Reading books, courses and blogs on Product Development and related Skills
 
 - 👯 I’m looking to collaborate on LinkedIn
 
@@ -26,9 +27,11 @@
 - ⚡ Fun fact: I am an Engineer
 
 <!-- <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"> -->
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithephenomenal&theme=dark&show_icons=true" />
 <img align-"right" src="https://github-readme-stats.vercel.app/api?username=Pavithephenomenal&&show_icons=true&title_color=F76E11&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithephenomenal&theme=dark&show_icons=true)  |  ![](https://github-readme-stats.vercel.app/api?username=Pavithephenomenal&&show_icons=true&title_color=F76E11&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-<img src="https://img.shields.io/badge/OS-WINDOWS 10-informational?style=flat&logo=Windows
-&logoColor=white&color=2bbc8a"/>
