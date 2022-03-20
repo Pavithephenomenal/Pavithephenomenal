@@ -33,7 +33,7 @@
 2. [YellowCapCommunity-Website](https://yellowcapcommunity.in/)
 3. [Admin Page Front-End](https://pavi-react-admin-page.netlify.app/)
 4. [CRED-Clone](https://pavi-cred-clone.netlify.app/)
-5. [Tableau-Content Management Treemap](https://public.tableau.com/shared/MXR6J3RFR?:display_count=y&:origin=viz_share_link)
+5. [Tableau-Content Management Treemap](https://public.tableau.com/views/contentManagementSystem2011-2020/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 6. [React-Recipe-App](https://pavi-react-recipe-app.netlify.app/)
 7. [Wedding-Website](https://hwithk.netlify.app/)
 
